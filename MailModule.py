@@ -22,7 +22,7 @@ def SendMail(ReceiverEmail, FileName):
         message["To"] = ReceiverEmail
         message["Subject"] = "Running Process Information Log"
         Body = """
-                Hello,
+                Jay Ganesh,
 
                 Please find the attached log file containing the running process information.
 
